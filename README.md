@@ -1,3 +1,10 @@
+
+See Live Dashboard- [ App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiY2E0NzE2NjUtNmFjZS00MTQ5LWJlZmMtNGEzMTc5ZGM0NzkzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
+
+
 Presenting my latest Power BI project: Zomato Sales Analysis,  I had the incredible opportunity to dive deep into this project, and I'm eager to showcase what I’ve achieved!
 
 Business Requirement: -

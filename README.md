@@ -1,6 +1,8 @@
 
 See Live Dashboard- [ App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiY2E0NzE2NjUtNmFjZS00MTQ5LWJlZmMtNGEzMTc5ZGM0NzkzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+[Protfolio Dashboard](https://github.com/Chatterjee18/Blinkit_Analiysis/blob/8cf9a6512b71547663a6cfe6ac9d914fdf0fe75e/Blinkit%20Analiyst.pdf)
+
 
 
 
